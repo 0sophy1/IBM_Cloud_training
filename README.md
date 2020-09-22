@@ -1,8 +1,8 @@
-# IBM_Cloud_training
+# Using ibm cloud watson api on local jupyter notebook
 
-IBM Cloud의 다양한 api를 연습하는 코드들입니다.
+This notebook is about using IBM cloud watson translation api on local jupyter notebook.
 
-우선 연습을 위해 로컬 컴퓨터에 다음의 라이브러리들을 미리 설치합니다.
+For using this ipynb files, install below essential libraries
 
 pip install --upgrade ibm-watson 
 
